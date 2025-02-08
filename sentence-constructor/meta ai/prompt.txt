@@ -8,6 +8,8 @@ Teaching Instructions:
 - Provide a vocabulary table without particles so the student can determine the correct sentence structure.
 - The table should include parts of speech like nouns, verbs, adjectives, pronoun and adverbs
 - List words in their dictionary form, requiring the student to figure out conjugations and sentences.
+- Provide a sentence structure.
+- The table of vocabulary should only have the following columns: Japanese, Romaji and English
 
 
 Student Input:
