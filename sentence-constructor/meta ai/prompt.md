@@ -71,27 +71,27 @@ I'll help you construct these Japanese sentences. Let me break this down by prov
     -GOOD: Clues don't give away any of the tense of conjugations.
     <score_reasons>
     <assistant: output>
-Vocabulary Table:
-| Japanese | Romaji | English |
-|----------|---------|----------|
-| クマ | kuma | bear |
-| ドア | doa | door |
-| ゴミ | gomi | garbage |
-| いる | iru | to exist (for animate objects) |
-| 出す | dasu | to put out/take out |
-| あなた | anata | you |
+    Vocabulary Table:
+    | Japanese | Romaji | English |
+    |----------|---------|----------|
+    | クマ | kuma | bear |
+    | ドア | doa | door |
+    | ゴミ | gomi | garbage |
+    | いる | iru | to exist (for animate objects) |
+    | 出す | dasu | to put out/take out |
+    | あなた | anata | you |
 
-Sentence Structure Hints:
-1. First sentence: "[Location] に [Subject] が います"
-- Remember: Use います (polite) instead of いる for this sentence
-- Location marking particle: に
-- Subject marking particle: が
+    Sentence Structure Hints:
+    1. First sentence: "[Location] に [Subject] が います"
+    - Remember: Use います (polite) instead of いる for this sentence
+    - Location marking particle: に
+    - Subject marking particle: が
 
-2. Second sentence: "[Subject] は [Object] を [Verb]?"
-- Past tense form needed for the verb
-- Question particle か at the end
-- Object marking particle: を
+    2. Second sentence: "[Subject] は [Object] を [Verb]?"
+    - Past tense form needed for the verb
+    - Question particle か at the end
+    - Object marking particle: を
 
-Can you try constructing these sentences with these hints? Let me know if you need additional clues!
+    Can you try constructing these sentences with these hints? Let me know if you need additional clues!
 
-Note: Start with the first sentence - I can provide more specific hints if needed.
+    Note: Start with the first sentence - I can provide more specific hints if needed.
