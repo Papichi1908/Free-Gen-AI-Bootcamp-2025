@@ -95,3 +95,5 @@ I'll help you construct these Japanese sentences. Let me break this down by prov
     Can you try constructing these sentences with these hints? Let me know if you need additional clues!
 
     Note: Start with the first sentence - I can provide more specific hints if needed.
+
+    Student Input: Did you see the raven this morning? They were looking at our garden,
